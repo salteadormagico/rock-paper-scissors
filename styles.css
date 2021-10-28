@@ -1,0 +1,17 @@
+.container {
+    margin: auto 100px;
+    background-color: lightskyblue;
+    color: red;
+    align-items: center;
+    text-align: center;
+}
+.btn {}
+.botones {
+    align-items: center;
+}
+#ganador {
+    font-size: 200px;
+}
+#machineimg {
+    padding-top: 100px;
+}
